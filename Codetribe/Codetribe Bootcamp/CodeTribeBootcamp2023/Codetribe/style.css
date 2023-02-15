@@ -1,0 +1,39 @@
+p {
+    background-color: beige;
+    color: black;
+    margin: 16px;
+}
+
+body {
+    background: url(../assets/Video/Video.mp4);
+}
+ul {
+   /* list-style-type: circle; */
+list-style: circle inside url("./assets/Icons/PR.png");
+
+}
+
+#EducationalBackgroundID{
+/* background-color: brown; */
+}
+
+#EducationalBackgroundID{
+    background-color: brown;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.mainContainer {
+background-color: beige;
+}
+.containerTitle {
+    font-size: small;
+    font-style: normal;
+    font-weight: lighter;
+}
+.container{
+    font-size: medium;
+    font-style: normal;
+    font-weight: bolder;
+}
